@@ -15,9 +15,9 @@
 ## Files
 - Python GUI file [`PythonGUI_to_read_SerialData.py`](/Python%20File/PythonGUI_to_read_SerialData.py) 
 - Example Arduino file [`ArduinoSerialOutput.ino`](/ArduinoSerialOutput/ArduinoSerialOutput.ino)
-- Executable file for windows [`PythonGUI_to_read_SerialData.exe`](/Python%20File/Executable%20Dist/dist/PythonGUI_to_read_SerialData.exe))
+- Executable file for windows [`PythonGUI_to_read_SerialData.exe`](/Python%20File/Executable%20Dist/dist/PythonGUI_to_read_SerialData.exe)
   ##### I haven't try this exe file. I recommend to run `PythonGUI_to_read_SerialData.py` than this exe file.
-- Example data log file  [`ExampleDataLog-7.txt`](/ExampleDataLog/ExampleDataLog-7.txt))
+- Example data log file  [`ExampleDataLog-7.txt`](/ExampleDataLog/ExampleDataLog-7.txt)
   
 ## Python GUI Screenshoot
 &nbsp;
