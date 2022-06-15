@@ -1,10 +1,10 @@
 # Python GUI for Monitoring (Read, Display and Saving) Arduino, ESP and Teensy Print Out Serial Data
 
 ## Features
-- This project is provided app based on python PySimpleGUI to read, display and save data from serial port.
+- This project is an app based on python PySimpleGUI to read, display and save data from serial port.
 - Serial port data could be serial print out data from arduino, ESP or Teensy.
 - Data could be send in single column or some columns that separated by comma.
-- Data is displayed at output log for every line that come from serial port.
+- Data is displayed at output log/console log for every line that come from serial port.
 - Data is saved txt file.
 
 ## Libraries/Packages
