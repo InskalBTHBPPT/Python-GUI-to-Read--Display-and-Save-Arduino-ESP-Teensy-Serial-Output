@@ -24,7 +24,7 @@
 
 ![GUI screenshoot - 2.jpg](./Python%20File/GUI%20screenshoot%20-%202.jpg)
 
-***Figure. 1.*** *App read and save serial monitor data.*
+***Figure. 1.*** *App read, display and save serial monitor data.*
 
 ## Log File Screenshoot
 ![example log data.jpg](./ExampleDataLog/example%20log%20data.jpg)
